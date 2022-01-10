@@ -1,4 +1,3 @@
-
 import contextlib
 
 with contextlib.redirect_stdout(None):
